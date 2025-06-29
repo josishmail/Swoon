@@ -6,3 +6,5 @@ include:
     shield: swoon_left
   - board:  seeeduino_xiao_ble
     shield: swoon_right
+  - board:  seeeduino_xiao_ble
+    shield: settings_reset
