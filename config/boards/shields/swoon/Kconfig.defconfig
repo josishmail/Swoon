@@ -4,7 +4,7 @@
 if SHIELD_SWOON_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "swoon"
+    default "kb1"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
@@ -15,3 +15,5 @@ if SHIELD_SWOON_LEFT || SHIELD_SWOON_RIGHT
 config ZMK_SPLIT
     default y
 endif
+
+
